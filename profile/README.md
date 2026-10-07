@@ -19,12 +19,14 @@ At **IDEH Labs**, we believe technology must serve human beings, not surveil the
 
 ## 📱 Suite of Ethical Applications
 
-### 🚀 Available on F-Droid
+### 🚀 Accepted & Published in F-Droid Main Repository
 
-| Application | Description | Source Code | F-Droid | License |
+| Application | Description | Source Code | F-Droid Status | License |
 | :--- | :--- | :---: | :---: | :---: |
 | **Ethic QR Scanner** | Offline QR and barcode scanner. Never opens links automatically and safely validates destinations. | [Code](https://github.com/IDEH-Labs/ethic-qr-scanner) | [![F-Droid](https://img.shields.io/f-droid/v/org.jpi59.ethicqrscanner?logo=f-droid&logoColor=white&label=F-Droid&color=blue)](https://f-droid.org/packages/org.jpi59.ethicqrscanner/) | `GPL-3.0` |
 | **Ethic Notes** | Private notepad with **zero permissions**, encryptable database, and anti-screenshot protection. | [Code](https://github.com/IDEH-Labs/ethic-notes) | [![F-Droid](https://img.shields.io/f-droid/v/org.jpi59.ethicnotes?logo=f-droid&logoColor=white&label=F-Droid&color=blue)](https://f-droid.org/packages/org.jpi59.ethicnotes/) | `GPL-3.0` |
+| **Ethic One Call** | Accessible one-call emergency and critical contact handoff manager with mandatory confirmation. | [Code](https://github.com/IDEH-Labs/ethic-one-call) | [![F-Droid](https://img.shields.io/badge/F--Droid-Published-brightgreen?logo=f-droid&logoColor=white)](https://f-droid.org/packages/org.jpi59.ethichandoff/) | `GPL-3.0` |
+| **Ethic Compass** | Pure sensor-based offline magnetic compass with zero invasive permissions. | [Code](https://github.com/IDEH-Labs/ethic-compass) | `Accepted (MR !48463 merged, building)` | `GPL-3.0` |
 
 ### 🌐 Standalone F-Droid Repository & Web Browser
 
@@ -38,9 +40,7 @@ At **IDEH Labs**, we believe technology must serve human beings, not surveil the
 | :--- | :--- | :---: | :---: |
 | **Ethic Keyboard** | Secure and private offline LatinIME keyboard without network permissions. | [Code](https://github.com/IDEH-Labs/ethic-keyboard) | `In Review (MR !48454)` |
 | **Ethic Tuner** | High-precision offline chromatic instrument tuner. | [Code](https://github.com/IDEH-Labs/ethic-tuner) | `In Review (MR !48650)` |
-| **Ethic Compass** | Sensor-based offline magnetic compass without invasive permissions. | [Code](https://github.com/IDEH-Labs/ethic-compass) | `In Review (MR !48463)` |
 | **Ethic APK Guard** | Ethical preflight analyzer for Android APK permissions and signatures before installation. | [Code](https://github.com/IDEH-Labs/ethic-apk-guard) | `In Review (MR !49016)` |
-| **Ethic One Call** | Accessible one-call emergency and critical contact handoff manager with mandatory confirmation. | [Code](https://github.com/IDEH-Labs/ethic-one-call) | `In Review (MR !49134)` |
 
 ---
 
