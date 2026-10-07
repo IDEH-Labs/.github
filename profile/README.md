@@ -1,51 +1,58 @@
 # 🛡️ IDEH Labs
 
-> **Software ético, privado e independiente para Android.**  
-> *Privacidad por diseño, cero rastreo y soberanía digital.*  
+> **Ethical, private, and independent software for Android.**  
+> *Privacy by design, zero tracking, and digital sovereignty.*  
 > 🌐 [ideh.top](https://ideh.top/) · 🦊 [GitLab](https://gitlab.com/ideh-labs) · 🤖 [F-Droid Catalog](https://f-droid.org/)
 
 ---
 
-## 🏛️ Manifiesto Ético / Ethical Principles
+## 🏛️ Ethical Manifesto / Core Principles
 
-En **IDEH Labs** creemos que la tecnología debe servir al ser humano, no vigilarlo ni explotar su atención. Desarrollamos herramientas utilitarias bajo cuatro compromisos innegociables:
+At **IDEH Labs**, we believe technology must serve human beings, not surveil them or exploit their attention. We develop privacy-focused utilities adhering to four non-negotiable principles:
 
-1. **Privacidad por diseño:** Si una función no requiere conexión a Internet, la aplicación no incluye permisos de red en su manifiesto.
-2. **Cero rastreo y cero telemetría:** Ninguna de nuestras aplicaciones incluye SDKs publicitarios, analíticas de terceros, rastreadores de comportamiento ni librerías de monetización invasiva.
-3. **Soberanía de datos:** Tu información permanece en tu dispositivo. No existen servidores centrales recopilando tus notas, búsquedas, lecturas ni preferencias.
-4. **Código abierto verificable:** Todo nuestro código está licenciado bajo la **GNU General Public License v3.0 (GPL-3.0-or-later)** y auditado para compilaciones reproducibles en [F-Droid](https://f-droid.org/).
+1. **Privacy by design:** If a feature does not require network access, the application requests zero network permissions in its manifest.
+2. **Zero tracking & zero telemetry:** None of our applications include advertising SDKs, third-party analytics, behavioral trackers, or intrusive monetization libraries.
+3. **Data sovereignty:** Your information stays on your device. There are no central servers collecting your notes, queries, browsing activity, or settings.
+4. **Verifiable open source:** All our source code is licensed under the **GNU General Public License v3.0 (GPL-3.0-or-later)** and audited for reproducible builds on [F-Droid](https://f-droid.org/).
 
 ---
 
-## 📱 Suite de Aplicaciones Éticas
+## 📱 Suite of Ethical Applications
 
-### 🚀 Publicadas en F-Droid
+### 🚀 Available on F-Droid
 
-| Aplicación | Descripción | Repositorio | F-Droid | Licencia |
+| Application | Description | Source Code | F-Droid | License |
 | :--- | :--- | :---: | :---: | :---: |
-| **Ethic QR Scanner** | Escáner offline de QR y códigos de barras. Jamás abre enlaces automáticamente y valida destinos de forma segura. | [Código](https://github.com/IDEH-Labs/ethic-qr-scanner) | [![F-Droid](https://img.shields.io/f-droid/v/org.jpi59.ethicqrscanner?logo=f-droid&logoColor=white&label=F-Droid&color=blue)](https://f-droid.org/packages/org.jpi59.ethicqrscanner/) | `GPL-3.0` |
-| **Ethic Notes** | Bloc de notas privado con **cero permisos**, base de datos cifrable y protección anti-captura de pantalla. | [Código](https://github.com/IDEH-Labs/ethic-notes) | [![F-Droid](https://img.shields.io/f-droid/v/org.jpi59.ethicnotes?logo=f-droid&logoColor=white&label=F-Droid&color=blue)](https://f-droid.org/packages/org.jpi59.ethicnotes/) | `GPL-3.0` |
+| **Ethic QR Scanner** | Offline QR and barcode scanner. Never opens links automatically and safely validates destinations. | [Code](https://github.com/IDEH-Labs/ethic-qr-scanner) | [![F-Droid](https://img.shields.io/f-droid/v/org.jpi59.ethicqrscanner?logo=f-droid&logoColor=white&label=F-Droid&color=blue)](https://f-droid.org/packages/org.jpi59.ethicqrscanner/) | `GPL-3.0` |
+| **Ethic Notes** | Private notepad with **zero permissions**, encryptable database, and anti-screenshot protection. | [Code](https://github.com/IDEH-Labs/ethic-notes) | [![F-Droid](https://img.shields.io/f-droid/v/org.jpi59.ethicnotes?logo=f-droid&logoColor=white&label=F-Droid&color=blue)](https://f-droid.org/packages/org.jpi59.ethicnotes/) | `GPL-3.0` |
 
-### ⏳ En proceso de revisión para F-Droid
+### 🌐 Standalone F-Droid Repository & Web Browser
 
-| Aplicación | Descripción | Repositorio | Estado |
+| Application | Description | Source Code | Repository | License |
+| :--- | :--- | :---: | :---: | :---: |
+| **Senda** | Free and private web browser for Android built on Mozilla GeckoView, with built-in uBlock Origin, Tor support, and hardware-backed password vault. | [Code](https://github.com/IDEH-Labs/senda-browser) | [F-Droid Repo](https://senda-fdroid-7a0636.gitlab.io/repo) | `GPL-3.0` |
+
+### ⏳ In Review for F-Droid Main Repository
+
+| Application | Description | Source Code | Status |
 | :--- | :--- | :---: | :---: |
-| **Ethic Keyboard** | Teclado seguro y configurable sin acceso a internet. | [Código](https://github.com/IDEH-Labs/ethic-keyboard) | `Revisión MR !48454` |
-| **Ethic Tuner** | Afinador cromático de instrumentos de alta precisión offline. | [Código](https://github.com/IDEH-Labs/ethic-tuner) | `Revisión MR !48650` |
-| **Ethic Compass** | Brújula de sensores puros sin permisos invasivos. | [Código](https://github.com/IDEH-Labs/ethic-compass) | `Revisión MR !48463` |
-| **Ethic APK Guard** | Analizador preventivo de permisos y firmas de APKs antes de instalarlos. | [Código](https://github.com/IDEH-Labs/ethic-apk-guard) | `Revisión MR !49016` |
-| **Ethic One Call** | Gestor accesible de llamadas de emergencia y contactos clave con confirmación previa. | [Código](https://github.com/IDEH-Labs/ethic-one-call) | `Revisión MR !49134` |
+| **Ethic Keyboard** | Secure and private offline LatinIME keyboard without network permissions. | [Code](https://github.com/IDEH-Labs/ethic-keyboard) | `In Review (MR !48454)` |
+| **Ethic Tuner** | High-precision offline chromatic instrument tuner. | [Code](https://github.com/IDEH-Labs/ethic-tuner) | `In Review (MR !48650)` |
+| **Ethic Compass** | Sensor-based offline magnetic compass without invasive permissions. | [Code](https://github.com/IDEH-Labs/ethic-compass) | `In Review (MR !48463)` |
+| **Ethic APK Guard** | Ethical preflight analyzer for Android APK permissions and signatures before installation. | [Code](https://github.com/IDEH-Labs/ethic-apk-guard) | `In Review (MR !49016)` |
+| **Ethic One Call** | Accessible one-call emergency and critical contact handoff manager with mandatory confirmation. | [Code](https://github.com/IDEH-Labs/ethic-one-call) | `In Review (MR !49134)` |
 
 ---
 
-## 🔒 Divulgación Responsable de Seguridad
+## 🔒 Responsible Security Disclosure
 
-La seguridad de nuestros usuarios es prioritaria. Si descubres una vulnerabilidad en cualquiera de nuestros proyectos, te agradecemos reportarla de manera responsable y privada antes de su divulgación pública. Consulta nuestra política en [SECURITY.md](SECURITY.md).
+User security and integrity are our top priorities. If you discover a vulnerability in any of our projects, please report it responsibly and privately before public disclosure. See our policy in [SECURITY.md](SECURITY.md).
 
 ---
 
-## 🌐 Enlaces Oficiales
+## 🌐 Official Links
 
-* **Sitio Web Institucional:** [https://ideh.top/](https://ideh.top/)
-* **Organización en GitHub:** [https://github.com/IDEH-Labs](https://github.com/IDEH-Labs)
-* **Grupo en GitLab:** [https://gitlab.com/ideh-labs](https://gitlab.com/ideh-labs)
+* **Official Website:** [https://ideh.top/](https://ideh.top/)
+* **GitHub Organization:** [https://github.com/IDEH-Labs](https://github.com/IDEH-Labs)
+* **GitLab Group:** [https://gitlab.com/ideh-labs](https://gitlab.com/ideh-labs)
+* **F-Droid Standalone Repository:** `https://senda-fdroid-7a0636.gitlab.io/repo`
