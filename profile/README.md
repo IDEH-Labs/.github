@@ -32,7 +32,7 @@ At **IDEH Labs**, we believe technology must serve human beings, not surveil the
 
 | Application | Description | Source Code | Repository | License |
 | :--- | :--- | :---: | :---: | :---: |
-| **Senda** | Free and private web browser for Android built on Mozilla GeckoView, with built-in uBlock Origin, Tor support, and hardware-backed password vault. | [Code](https://github.com/IDEH-Labs/senda-browser) | [F-Droid Repo](https://senda-fdroid-7a0636.gitlab.io/repo) | `GPL-3.0` |
+| **Senda** | Free and private web browser for Android built on Mozilla GeckoView, with built-in uBlock Origin, Tor support, and hardware-backed password vault. | [Code](https://github.com/IDEH-Labs/senda-browser) | [F-Droid Repo](https://senda-fdroid-7a0636.gitlab.io/fdroid/repo) | `GPL-3.0` |
 
 ### ⏳ In Review for F-Droid Main Repository
 
@@ -55,4 +55,4 @@ User security and integrity are our top priorities. If you discover a vulnerabil
 * **Official Website:** [https://ideh.top/](https://ideh.top/)
 * **GitHub Organization:** [https://github.com/IDEH-Labs](https://github.com/IDEH-Labs)
 * **GitLab Group:** [https://gitlab.com/ideh-labs](https://gitlab.com/ideh-labs)
-* **F-Droid Standalone Repository:** `https://senda-fdroid-7a0636.gitlab.io/repo`
+* **F-Droid Standalone Repository:** `https://senda-fdroid-7a0636.gitlab.io/fdroid/repo`
