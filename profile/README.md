@@ -2,7 +2,7 @@
 
 > **Ethical, private, and independent software for Android.**  
 > *Privacy by design, zero tracking, and digital sovereignty.*  
-> 🌐 [ideh.top](https://ideh.top/) · 🦊 [GitLab](https://gitlab.com/ideh-labs) · 🤖 [F-Droid Catalog](https://f-droid.org/)
+> 🌐 [ideh.top](https://ideh.top/) · 🏔️ [Codeberg](https://codeberg.org/IDEH-Labs) · 🦊 [GitLab](https://gitlab.com/ideh-labs) · 🤖 [F-Droid Catalog](https://f-droid.org/)
 
 ---
 
@@ -53,6 +53,7 @@ User security and integrity are our top priorities. If you discover a vulnerabil
 ## 🌐 Official Links
 
 * **Official Website:** [https://ideh.top/](https://ideh.top/)
+* **Codeberg Organization:** [https://codeberg.org/IDEH-Labs](https://codeberg.org/IDEH-Labs)
 * **GitHub Organization:** [https://github.com/IDEH-Labs](https://github.com/IDEH-Labs)
 * **GitLab Group:** [https://gitlab.com/ideh-labs](https://gitlab.com/ideh-labs)
 * **F-Droid Standalone Repository:** `https://senda-fdroid-7a0636.gitlab.io/fdroid/repo`
